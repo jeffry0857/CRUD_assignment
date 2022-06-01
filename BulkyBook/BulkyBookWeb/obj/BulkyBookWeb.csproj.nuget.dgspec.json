@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeffry\\Documents\\HTML & CSS\\HomeWork\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Users\\Jeffry\\Documents\\ASP.NET Core\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeffry\\Documents\\HTML & CSS\\HomeWork\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "C:\\Users\\Jeffry\\Documents\\ASP.NET Core\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeffry\\Documents\\HTML & CSS\\HomeWork\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Jeffry\\Documents\\ASP.NET Core\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\Jeffry\\Documents\\HTML & CSS\\HomeWork\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "C:\\Users\\Jeffry\\Documents\\ASP.NET Core\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\Jeffry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeffry\\Documents\\HTML & CSS\\HomeWork\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "C:\\Users\\Jeffry\\Documents\\ASP.NET Core\\BulkyBookWeb\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
